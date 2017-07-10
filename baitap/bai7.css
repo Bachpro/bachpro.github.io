@@ -1,0 +1,21 @@
+   * {
+              margin: 0 ;
+              padding : 0;
+              box-sizing: border-box;
+       }
+      .anh {
+         width: 100px;
+         height: 100px;
+         background-image:url('');
+         background-position: center; 
+         background-size: 100% 100%;
+         border-radius: 50%; 
+         position: absolute;
+         left: 45%;
+         top:50px;
+         margin-left: -50px; 
+      }
+      .hinh-chu-nhat {
+         height: 100px;
+         background-color:orange; 
+      }

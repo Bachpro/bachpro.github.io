@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <style>
+    * {
+              margin: 0 ;
+              padding : 0;
+              box-sizing: border-box;
+       }
+       ul {
+       	list-style-type: none;
+       }
+       .li1 {
+       	float: left;
+       	padding: 30px;
+       	border: 1px solid pink;
+       	position: relative;
+
+       }
+       .ul2 {
+       	position: absolute;
+       	border: 1px solid green;
+       	top:100%;
+       	left: 0;
+       	width: 100%;
+       }
+       .li2 {
+       	padding: 10px;
+       }
+       .ul2 {
+       	display: none;
+       }
+
+    	.li1:hover .ul2 {
+    		display: block;
+    	}
+
+
+
+    </style>
+
+
+</head>
+<body>
+
+<ul class="ul1">
+	<li class="li1">MENU 1
+		<ul class="ul2">
+			<li class="li2">MENU 2</li>
+			<li class="li2">MENU 2</li>
+			<li class="li2">MENU 2</li>
+		</ul>
+	</li>
+	<li class="li1">MENU 1
+		<ul class="ul2">
+			<li class="li2">MENU 2</li>
+			<li class="li2">MENU 2</li>
+			<li class="li2">MENU 2</li>
+		</ul>
+	</li>
+	<li class="li1">MENU 1
+		<ul class="ul2">
+			<li class="li2">MENU 2</li>
+			<li class="li2">MENU 2</li>
+			<li class="li2">MENU 2</li>
+		</ul>
+	</li>
+</ul> 
+
+
+
+
+</body>
+</html>
