@@ -1,0 +1,14 @@
+*{margin: 0;padding: 0;font-family: sans-serif;box-sizing: border-box;text-align: center;break-inside: avoid;}#columns {column-count: 4;column-gap: 40px;width: 80%;margin: auto ;padding: 0 0 40px 0 ;border: none ;background: none;}#columns img {width: 100%;width: 100%;}
+
+/*---- CÁC EM VIẾT CSS BÊN DƯỚI NHÉ -------*/
+
+
+body {
+	/* Đây là CSS để thay ảnh nền , em hãy thay ảnh khác bằng cách viết tên file ảnh vào dấu ngoặc kép nhé*/
+	background-image: url("http://khohinhnen.com/wp-content/uploads/2014/08/hinh-nen-trai-tim-tinh-yeu-dep-5.jpg");
+}
+h1	{
+	color: white;
+}
+
+

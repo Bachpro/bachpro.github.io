@@ -1,0 +1,30 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+#thoi_khoa_bieu {
+	width: 1000px;
+	margin: auto;
+}
+#tieu_de {
+	text-align: center;
+	border: 1px solid blue;
+	color: yellow;
+}
+h2 {
+	padding: 100px;
+}
+ul {
+	list-style-type: none;
+	float: left;
+	width: 14.28%;
+	text-align: center;
+}
+li {
+	padding: 20px;
+	border: 1px solid blue;
+	color: red;
+}
+
