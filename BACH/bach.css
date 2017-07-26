@@ -1,0 +1,210 @@
+* {
+	margin: 0;
+	padding:0;
+	box-sizing: border-box;
+}
+ul {
+	list-style-type: none;
+}
+a {
+	text-decoration: none;
+}
+.tren-cung {
+	position: absolute;
+	top: 0px;
+	left: 822px;
+	width:1000px;
+	margin: auto;
+}
+.tren-cung li {
+	float: left;
+	padding: 25px;
+	font-size: 26px;
+	margin-top: 20px;
+}
+.tren-cung li a {
+		color: black;
+}
+img {
+  width: 100%;	
+}
+.b1 {
+	position: relative;
+	right:125px;
+}
+.b2 {
+	position: absolute;
+	left: 10px;
+}
+.b3 {
+	position: absolute;
+	left: 280px;
+}
+.b4 {
+	position: absolute;
+	left:370px;
+}
+.anh img {
+	position: relative;
+	left: 0;
+	bottom: 30px;
+	margin-bottom: 90px;
+}
+.logo {
+	position: absolute;
+	top: 5px;
+	left: 968px;
+	width: 100px;
+}
+.logo2 {
+	width: 60px;
+	margin: auto;
+	margin-bottom: 40px;
+}
+.duoi1 {
+	text-align: center;
+	font-size: 22px;
+}
+.bach {
+	width: 800px;
+	margin: auto;
+	margin-top: 40px;
+	margin-bottom: 100px;
+}
+
+.anh1 img {
+	width: 70%;
+}
+.logo3 {
+	width: 80px;
+	margin-left: 1690px;
+	margin-top: -725px;
+}
+.bach2{
+	width: 471px;
+	float: right;
+	margin-top: 21px;
+	margin-right: 25px;
+	font-size: 22px;
+	line-height: 30px;
+}
+.bach3 {
+	margin-left: 1627px;
+	font-size: 23px;
+	margin-top: 47px;
+}
+.duoi2 img {
+	width: 607px;
+	margin-top: 188px;
+	margin-left: 1416px;
+}
+.anh2 img {
+	width: 70%;
+	float: right;
+}
+
+.logo4 {
+
+	width: 80px;
+	margin-left: 250px;
+	padding-top: 80px;
+}
+.duoi3 p {
+	width: 471px;
+	font-size: 22px;
+	line-height: 30px;
+	margin-left: 67px;
+	margin-top: 30px;
+}
+.duoi3 img {
+	width: 607px;
+	margin-top: 226px;
+}
+.anh3 {
+	width: 607px;
+}
+.anh4 {
+	width: 607px;
+	float: right;
+	margin-top: -687px;
+}
+.logo5 {
+	width: 60px;
+	margin-left: 985px;
+	margin-top: -565px;
+}
+.yl1 {
+	font-size: 22px;
+	text-align: center;
+	margin-top: 22px;
+}
+.yl2 {
+	width: 490px;
+	font-size: 23px;
+	line-height: 30px;
+	margin-left: 792px;
+	margin-top: 22px;
+}
+.duoi4 img {
+	height: 213px;	
+	width: 808px;
+	margin-left: 608px;
+	margin-top: 19px;
+}
+.logo6 {
+	width: 80px;
+	margin: auto;
+	margin-top: 200px;
+}
+.lyl p {
+	text-align: center;
+	margin-top: 22px;
+	font-size: 23px;
+}
+.lyl span {
+	color: #9d9fa0;
+}
+.lyl1 {
+	width: 1100px;
+	margin: auto;
+	font-size: 20px;
+	color: #9d9fa0;
+	margin-bottom: 250px;
+}
+.n-anh {
+	width: 285px;
+}
+.k {
+	position: relative;
+	bottom: -20px;
+}
+.l1 {
+	position: relative;
+	left: 285px;
+	bottom: 267px;
+}
+.l2 {
+	width: 570px;
+	margin-top: -271px;
+}
+.myk {
+	position: relative;
+	top: -572px;
+	left: 570px;
+}
+.myk1 {
+	position: relative;
+	top: -1146px;
+	left: 855px;
+}
+.myk1 img {
+	width: 101%;
+}
+.myk2 {
+	position: relative;
+	top: -1720px;
+	left: 1143px;
+}
+.mky2 img {
+	width: 1000px !important;
+}
