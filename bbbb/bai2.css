@@ -1,0 +1,24 @@
+﻿*{margin: 0;padding: 0;font-family: sans-serif;box-sizing: border-box;text-align: center;break-inside: avoid;}#columns {column-count: 4;column-gap: 40px;width: 80%;margin: auto ;padding: 0 0 40px 0 ;border: none ;background: none;}#columns img {width: 100%;width: 100%;}
+
+/*---- CÁC EM VIẾT CSS BÊN DƯỚI NHÉ -------*/
+
+
+body {
+	/* Đây là CSS để thay ảnh nền , em hãy thay ảnh khác bằng cách viết tên file ảnh vào dấu ngoặc kép nhé*/
+	background-image: url("http://dulichhanhphucviet.com.vn/images/hinh-nen-trai-tim-tinh-yeu-4.jpg");
+}
+h1 {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.b img {
+	height: 179px;
+}
+.b1 img {
+	height: 179px;
+}
+.b2 img {
+	height: 322.4px;
+}
+
+

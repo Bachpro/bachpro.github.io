@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Bài7</title>
+    <style>
+    * {
+              margin: 0 ;
+              padding : 0;
+              box-sizing: border-box;
+       }
+       a {
+        text-decoration: none;
+       }
+       ul {
+        list-style-type: none;
+       }
+       .li1 {
+        float: left;
+        padding: 30px;
+        border: 1px solid #303030;
+        position: relative;
+        color: white;
+        background-color: #303030;
+       }
+       .ul2 {
+        position: absolute;
+        border: 1px solid #303030;
+        top:100%;
+        left: 0;
+        width: 100%;
+        background-color: #303030;
+        color: white;
+       }
+
+       .li2 {
+        padding: 10px;
+       }
+       .li2 a {
+        color: white;
+       }
+       .ul2 {
+        display: none;
+       }
+       .li1:hover {
+        color: yellow;
+       }
+      .li1:hover .ul2 {
+        display: block;
+        color: yellow;
+      }
+      .li1:hover .ul2 .li2 {
+        color: yellow;
+      } 
+    </style>
+
+
+</head>
+<body>
+
+<ul class="ul1">
+  <li class="li1">Bach 1
+    <ul class="ul2">
+      <li class="li2"><a href="">Bach 2</a></li>
+      <li class="li2"><a href="">Bach 3</a></li>
+      <li class="li2"><a href="">Bach 4</a></li>
+    </ul>
+  </li>
+  <li class="li1">Bach 5
+    <ul class="ul2">
+      <li class="li2"><a href="">Bach 6</a></li>
+      <li class="li2"><a href="">Bach 7</a></li>
+      <li class="li2"><a href="">Bach 8</a></li>
+    </ul>
+  </li>
+  <li class="li1">Bach 9
+    <ul class="ul2">
+      <li class="li2"><a href="">Bach 10</a></li>
+      <li class="li2"><a href="">Bach 11</a></li>
+      <li class="li2"><a href="">Bach 12</a></li>
+    </ul>
+  </li>
+</ul> 
+
+
+
+
+</body>
+</html>

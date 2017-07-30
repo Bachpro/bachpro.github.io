@@ -1,0 +1,242 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body {
+	background-image: url(bg.jpg);
+}
+
+ img{
+	width: 100%;
+}
+#dg {
+	position: absolute;
+	top: 20%;
+	font-size: 70px;
+	left: 40%;
+	color: white;
+
+	
+}
+.dhh{
+	width: 600px;
+	margin: auto;
+}
+.dhh p{
+	font-size: 25px;
+	font-family:'Cormorant Upright', serif;
+	
+}
+
+
+#h span{
+	font-size: 125px;
+	float: left;
+	margin-top: -28px;
+	margin-bottom: 0px;
+	
+}
+.div2 img{
+	width: 100%;
+}
+#dg{
+	font-family: 'Dancing Script', cursive;
+	color: brown;
+}
+.div3 img{
+	width: 30%;
+	margin-left: 200px;
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+.div4 {
+	position: absolute;
+	left: 0;
+}
+.div4 p{
+	position: absolute;	
+	width: 630px;
+	left: 10%;
+	top: 65%;
+	font-size: 30px;
+	line-height: 40px;
+	background-color: white;
+	font-family: 'Sigmar One', cursive;
+}
+.div5 {
+	width: 532px;
+	margin: auto;
+	position: relative;
+	top: 1140px;
+
+}
+.div5 p {
+	position: absolute;
+	width: 390px;
+	top: 33%;
+	font-size: 32px;
+	left: -408px;
+	line-height: 40px;
+	font-family: 'Gloria Hallelujah', cursive;
+}
+.div6 {
+	width:532px;
+	margin: auto;
+	position: relative;
+	margin-bottom: 150px;
+	top: 1375px;
+}
+.div6 p {
+	width: 390px;
+	position: absolute;
+	left: 602px;
+	font-size: 32px;
+	top: 248px;
+	line-height: 40px;
+	float: right;
+	font-family: 'Gloria Hallelujah', cursive;
+}
+.div7 {
+	margin-top: 1580px;
+}
+.div7 p {
+	position: absolute;
+	width: 298px;
+	right: 268px;
+	margin-top: -281px;
+	font-size: 30px;
+	line-height: 40px;
+	background-color: white;
+	font-family: 'Sigmar One', cursive;
+
+}
+.div8 {
+	position: relative;
+	margin-bottom: 200px;
+	top: 200px;
+}
+.div8 p {
+	position: absolute;	
+	width: 700px;
+	left: 6%;
+	bottom: 6%;
+	font-size: 30px;
+	line-height: 40px;
+	background-color: white;
+	font-family: 'Sigmar One', cursive;
+}
+.div9 {
+	width: 532px;
+	margin: auto;
+	position: relative;
+	padding-top: 200px;
+}
+.div9 p {
+	position: absolute;
+	width: 390px;
+	top: 450px;
+	font-size: 32px;
+	left: -408px;
+	line-height: 40px;
+	font-family: 'Gloria Hallelujah', cursive;
+}
+.div10 {
+	width: 516px;
+	margin: auto;
+	position: relative;
+	margin-bottom: 200px;
+	margin-top: 200px;
+}
+.div10 p {
+	position: absolute;
+	width: 390px;
+	font-size: 32px;
+	line-height: 40px;
+	font-family: 'Gloria Hallelujah', cursive;
+	bottom: 315px;
+	right: -460px;
+}
+.div11 {
+	position: relative;
+	margin-bottom: 200px;
+}
+.div11 p {
+	position: absolute;
+	font-size: 32px;
+	line-height: 40px;
+	font-family: 'Gloria Hallelujah', cursive;
+	bottom: 65px;
+	right: 111px;
+	background-color: white;
+}
+.div12 {
+	width: 532px;
+	margin: auto;
+	position: relative;
+	margin-bottom: 200px;
+}
+
+.div12 p {
+	position: absolute;
+	width: 390px;
+	top: 95px;
+	font-size: 32px;
+	left: -408px;
+	line-height: 40px;
+	font-family: 'Gloria Hallelujah', cursive;
+}
+.div13 {
+	position: relative;
+	margin-bottom: 200px;
+}
+.div13 p {
+	position: absolute;
+	font-size: 32px;
+	line-height: 40px;
+	font-family: 'Gloria Hallelujah', cursive;
+	top: 80px;
+	left:75px;
+	background-color: white;
+}
+.div14 {
+	width: 532px;
+	margin: auto;
+	position: relative;
+	margin-bottom: 200px;
+}
+.div14 p {
+	position: absolute;
+	width: 390px;
+	top: 95px;
+	font-size: 32px;
+	right: -415px;
+	line-height: 40px;
+	font-family: 'Gloria Hallelujah', cursive;
+}
+.div15 {
+	position: relative;
+	margin-bottom: 200px;	
+}
+.div15 p {
+	position: absolute;
+	font-size: 32px;
+	line-height: 40px;
+	font-family: 'Gloria Hallelujah', cursive;
+	bottom: 90px;
+	left:95px;
+	background-color: white;
+}
+body {
+	background-image: url(bg.jpg);
+}
+.bg {
+	background-image: url(bg2.jpg);
+}
+.bg p {
+	text-align: center;
+	padding: 200px;
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 32px;
+	color: white;
+}
